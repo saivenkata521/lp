@@ -1,0 +1,16 @@
+struct name{
+    int a ;
+    float b 
+
+    struct name1{
+        int a1;
+        int b1;
+    };
+};
+
+int main(){
+   
+   struct name obj;
+   obj1.a = 213;
+
+}
